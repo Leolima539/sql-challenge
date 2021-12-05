@@ -5,7 +5,7 @@ In this project we have 3 files and 1 folder.
 
 On the folder we have 6 .csv files containing the necessary data to do the corresponding analysis.
 
-Of the 3 files 1 is a ERD.png, this is the ERD diagram for the 6 .csv files.
+Of the 3 files 1 is a erd_diagram.png, this is the ERD diagram for the 6 .csv files.
 
 The other 2 files are .sql files: 
 1. schema_creator.sql 
